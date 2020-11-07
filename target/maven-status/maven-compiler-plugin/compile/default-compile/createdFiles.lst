@@ -1,0 +1,10 @@
+com\xyzmobile\emobileconnect\repository\EMobileConnectRepository.class
+com\xyzmobile\emobileconnect\scheduler\ShedulerJobCondition.class
+com\xyzmobile\emobileconnect\service\EMobileConnectService.class
+com\xyzmobile\emobileconnect\domain\AbstractEntity.class
+com\xyzmobile\emobileconnect\restcontroller\EMobileConnectRestController.class
+com\xyzmobile\emobileconnect\scheduler\ShedulerJob.class
+com\xyzmobile\emobileconnect\domain\User.class
+com\xyzmobile\emobileconnect\scheduler\ShedulerJobService.class
+com\xyzmobile\emobileconnect\scheduler\ShedulerJobConfiguration.class
+com\xyzmobile\emobileconnect\EmobileconnectApplication.class

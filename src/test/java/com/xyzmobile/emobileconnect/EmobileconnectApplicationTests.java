@@ -1,13 +1,12 @@
-package com.xyzmobile.emobileconnect;
-
-import org.junit.jupiter.api.Test;
-import org.springframework.boot.test.context.SpringBootTest;
-
-@SpringBootTest
-class EmobileconnectApplicationTests {
-
-	@Test
-	void contextLoads() {
-	}
-
-}
+/*
+ * package com.xyzmobile.emobileconnect;
+ * 
+ * import org.junit.jupiter.api.Test; import
+ * org.springframework.boot.test.context.SpringBootTest;
+ * 
+ * @SpringBootTest class EmobileconnectApplicationTests {
+ * 
+ * @Test void contextLoads() { }
+ * 
+ * }
+ */
